@@ -1,0 +1,28 @@
+{
+  "project": "Pull Kernel",
+  "maintainer": "Professional Adem Benarfa",
+  "version": "1.0.0-Beta",
+  "launch_date": "2026-03-01",
+  "announcements": [
+    {
+      "id": 1,
+      "date": "2026-02-25",
+      "title": "Initial Launch & Countdown",
+      "content": "The world is about to witness a kernel architecture that restores balance to hardware efficiency.",
+      "status": "published"
+    },
+    {
+      "id": 2,
+      "date": "2026-03-01",
+      "title": "The Grand Release",
+      "content": "Official open-source contribution is now live for developers worldwide.",
+      "status": "scheduled"
+    }
+  ],
+  "metadata": {
+    "total_loc": 25000,
+    "license": "GPL-2.0",
+    "stability": "Beta",
+    "region": "Global"
+  }
+}
